@@ -11,7 +11,7 @@ At PlanetPulse I build **ESGLite**, a GHG-accounting and ESG-reporting SaaS:
 ### Stack
 Python · TypeScript · React · Node.js · FastAPI · PostgreSQL · LLMs / RAG
 
-### Aug – Nov 2026
+### Jul – Nov 2026
 82 merged pull requests · 490 commits · 80,000+ lines added across company repos (mostly private)
 
 ### Elsewhere
